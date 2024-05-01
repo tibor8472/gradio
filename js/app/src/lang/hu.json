@@ -1,0 +1,118 @@
+{
+	"3D_model": {
+		"3d_model": "3D Modell"
+	},
+	"annotated_image": {
+		"annotated_image": "Megjegyzésekkel ellátott kép"
+	},
+	"audio": {
+		"allow_recording_access": "Kérem engedélyezze a hozzáférést a mikrofonhoz.",
+		"audio": "Audió",
+		"record_from_microphone": "Felvétel mikrofonról",
+		"stop_recording": "Felvétel megállítása",
+		"no_device_support": "A médiaeszközöket nem lehetett elérni. Ellenőrizze, hogy titkosított kapcsolaton (https), vagy localhost-on van (vagy érvényes SSL-tanúsítványt adott-e át az ssl_verify-nak) és engedélyezte-e a böngésző hozzáférését az eszközhöz.",
+		"stop": "Megállítás",
+		"resume": "Vissza",
+		"record": "Felvétel",
+		"no_microphone": "Nem észlelhető mikrofon",
+		"pause": "Szünet",
+		"play": "Lejátszás"
+	},
+	"blocks": {
+		"connection_can_break": "Mobileszközön a kapcsolat megszakadhat, ha nem ez a lep van fókuszban, vagy az eszköz alszik, így elveszítheti pozícióját a sorban.",
+		"long_requests_queue": "Sok lekérés áll függésben. Duplikálja ezt az teret az átugráshoz.",
+		"lost_connection": "A kacsolat elveszett a lap elhagyása miatt. Újrakapcsolódás a sorhoz..."
+	},
+	"checkbox": {
+		"checkbox": "Jelőlőnégyzet",
+		"checkbox_group": "Jelölőnégyzetek csoportja"
+	},
+	"code": {
+		"code": "Kód"
+	},
+	"color_picker": {
+		"color_picker": "Színválasztó"
+	},
+	"common": {
+		"built_with": "készült",
+		"built_with_gradio": "Gadio-val készítve",
+		"clear": "Törlés",
+		"download": "Letöltés",
+		"edit": "Szerkesztés",
+		"empty": "Kiürítés",
+		"error": "Hiba",
+		"hosted_on": "Tárolva a",
+		"loading": "Betöltés",
+		"logo": "logó",
+		"or": "vagy",
+		"remove": "Eltávolítás",
+		"share": "Megosztás",
+		"submit": "Küldés",
+		"undo": "Visszavonás",
+		"no_devices": "Nem találhatóak eszközök"
+	},
+	"dataframe": {
+		"incorrect_format": "Nem megfelelő formátum. Csak CSV és TSV fájlok támogatottak.",
+		"new_column": "Új oszlop",
+		"new_row": "Új sor"
+	},
+	"dropdown": {
+		"dropdown": "Lenyíló lista"
+	},
+	"errors": {
+		"build_error": "hiba lépett fel a felépítéskor",
+		"config_error": "hiba van a konfigurációkban",
+		"contact_page_author": "Kérem vegye fel a kapcsolatot az oldal fejlesztőjével, hogy tudomást szerezzen erről.",
+		"no_app_file": "hiányzó app fájl",
+		"runtime_error": "futtatási hiba lépett fel",
+		"space_not_working": "\"A Tér nem nem működik mert\" {0}",
+		"space_paused": "a tér szüneteltetve",
+		"use_via_api": "API-n keresztüli használat"
+	},
+	"file": {
+		"uploading": "Feltöltés..."
+	},
+	"highlighted_text": {
+		"highlighted_text": "Kiemelt szöveg"
+	},
+	"image": {
+		"allow_webcam_access": "Kérem engedélyezze a hozzáférést a kamerához.",
+		"brush_color": "Ecset szín",
+		"brush_radius": "Ecset sugár",
+		"image": "Kép",
+		"remove_image": "Kép eltávolítása",
+		"select_brush_color": "Ecset színének kiválasztása",
+		"start_drawing": "Rajzolás elkezdése",
+		"use_brush": "Ecset használata"
+	},
+	"label": {
+		"label": "Címke"
+	},
+	"login": {
+		"enable_cookies": "Ha inkognító módban látogat meg egy HuggingFace Teret, akkor engedélyeznie kell a harmadik féltől származó sütiket.",
+		"incorrect_credentials": "Helytelen belépési adatok",
+		"login": "Bejelentkezés"
+	},
+	"number": {
+		"number": "Szám"
+	},
+	"plot": {
+		"plot": "Grafikon"
+	},
+	"radio": {
+		"radio": "Radio"
+	},
+	"slider": {
+		"slider": "Csúszka"
+	},
+	"upload_text": {
+		"click_to_upload": "Kattintson a feltöltéshez",
+		"drop_audio": "Húzzon ide audiót",
+		"drop_csv": "Húzzon ide CSV-t",
+		"drop_file": "Húzzon ide fájlt",
+		"drop_image": "Húzzon ide képet",
+		"drop_video": "Húzzon ide videót",
+		"drop_gallery": "Húzzon ide képe(ke)t",
+		"paste_clipboard": "Beillesztés vágólapról"
+	}
+}
